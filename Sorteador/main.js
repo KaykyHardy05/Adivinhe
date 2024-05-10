@@ -1,0 +1,1 @@
+let Naleatório = math.floor(math.random())
